@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F022C27F-EA82-4766-8B7B-F54744EC3883}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TransactionManipulator.aspx">
+    <Files>
+      <File FileName="TransactionManipulator.aspx" Line="25" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PGSample PreferredExecutionTarget="/usr/bin/google-chrome-stable" />
+</Properties>

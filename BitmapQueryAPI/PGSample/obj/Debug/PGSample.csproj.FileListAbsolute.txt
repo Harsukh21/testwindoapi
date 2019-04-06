@@ -1,0 +1,80 @@
+D:\Applications\PG\PGSample\PGSample\bin\PGSample.dll
+D:\Applications\PG\PGSample\PGSample\bin\PGSample.pdb
+D:\Applications\PG\PGSample\PGSample\obj\Debug\PGSample.dll
+D:\Applications\PG\PGSample\PGSample\obj\Debug\PGSample.pdb
+D:\_Development\NeO\PGSample\bin\PGSample.dll
+D:\_Development\NeO\PGSample\bin\PGSample.pdb
+D:\_Development\NeO\PGSample\obj\Debug\PGSample.csprojResolveAssemblyReference.cache
+D:\_Development\NeO\PGSample\obj\Debug\PGSample.dll
+D:\_Development\NeO\PGSample\obj\Debug\PGSample.pdb
+D:\_Development\NeO\PGSample\bin\aes.dll
+D:\_Development\NeO\PGSample\bin\aes.pdb
+E:\johny\work\June\copy3\C # - NeO\PGSample\bin\PGSample.dll.config
+E:\johny\work\June\copy3\C # - NeO\PGSample\bin\PGSample.dll
+E:\johny\work\June\copy3\C # - NeO\PGSample\bin\PGSample.pdb
+E:\johny\work\June\copy3\C # - NeO\PGSample\bin\aes.pdb
+E:\johny\work\June\copy3\C # - NeO\PGSample\obj\Debug\PGSample.csprojResolveAssemblyReference.cache
+E:\johny\work\June\copy3\C # - NeO\PGSample\obj\Debug\PGSample.dll
+E:\johny\work\June\copy3\C # - NeO\PGSample\obj\Debug\PGSample.pdb
+E:\johny\work\June\PGSample\bin\PGSample.dll.config
+E:\johny\work\June\PGSample\bin\PGSample.dll
+E:\johny\work\June\PGSample\bin\PGSample.pdb
+E:\johny\work\June\PGSample\obj\Debug\PGSample.dll
+E:\johny\work\June\PGSample\obj\Debug\PGSample.pdb
+E:\johny\work\June\PGSample\obj\Debug\PGSample.csprojResolveAssemblyReference.cache
+E:\johny\work\June\PGSample\bin\Microsoft.Web.Services3.dll
+E:\johny\work\June\PGSample\bin\System.Web.dll
+G:\today\PGSample\bin\PGSample.dll.config
+G:\today\PGSample\bin\PGSample.dll
+G:\today\PGSample\bin\PGSample.pdb
+G:\today\PGSample\bin\Microsoft.Web.Services3.dll
+G:\today\PGSample\bin\System.Web.dll
+G:\today\PGSample\obj\Debug\PGSample.csprojResolveAssemblyReference.cache
+G:\today\PGSample\obj\Debug\PGSample.dll
+G:\today\PGSample\obj\Debug\PGSample.pdb
+C:\Users\Arun_\Desktop\VS\PGSample\bin\PGSample.dll.config
+C:\Users\Arun_\Desktop\VS\PGSample\bin\PGSample.dll
+C:\Users\Arun_\Desktop\VS\PGSample\bin\PGSample.pdb
+C:\Users\Arun_\Desktop\VS\PGSample\bin\Microsoft.Web.Services3.dll
+C:\Users\Arun_\Desktop\VS\PGSample\bin\System.Web.dll
+C:\Users\Arun_\Desktop\VS\PGSample\obj\Debug\PGSample.csprojResolveAssemblyReference.cache
+C:\Users\Arun_\Desktop\VS\PGSample\obj\Debug\PGSample.dll
+C:\Users\Arun_\Desktop\VS\PGSample\obj\Debug\PGSample.pdb
+E:\VS\PGSample\bin\PGSample.dll.config
+E:\VS\PGSample\bin\PGSample.dll
+E:\VS\PGSample\bin\PGSample.pdb
+E:\VS\PGSample\bin\Microsoft.Web.Services3.dll
+E:\VS\PGSample\bin\System.Web.dll
+E:\VS\PGSample\obj\Debug\PGSample.dll
+E:\VS\PGSample\obj\Debug\PGSample.pdb
+E:\VS\Bitmap Common\PGSample\bin\PGSample.dll.config
+E:\VS\Bitmap Common\PGSample\bin\PGSample.dll
+E:\VS\Bitmap Common\PGSample\bin\PGSample.pdb
+E:\VS\Bitmap Common\PGSample\bin\Microsoft.Web.Services3.dll
+E:\VS\Bitmap Common\PGSample\bin\System.Web.dll
+E:\VS\Bitmap Common\PGSample\obj\Debug\PGSample.csprojResolveAssemblyReference.cache
+E:\VS\Bitmap Common\PGSample\obj\Debug\PGSample.dll
+E:\VS\Bitmap Common\PGSample\obj\Debug\PGSample.pdb
+E:\VS\Payment All\Bitmap Common\PGSample\bin\PGSample.dll.config
+E:\VS\Payment All\Bitmap Common\PGSample\bin\PGSample.dll
+E:\VS\Payment All\Bitmap Common\PGSample\bin\PGSample.pdb
+E:\VS\Payment All\Bitmap Common\PGSample\bin\Microsoft.Web.Services3.dll
+E:\VS\Payment All\Bitmap Common\PGSample\bin\System.Web.dll
+E:\VS\Payment All\Bitmap Common\PGSample\obj\Debug\PGSample.dll
+E:\VS\Payment All\Bitmap Common\PGSample\obj\Debug\PGSample.pdb
+E:\johny\work\June\Finalized Docs\Payment All\Bitmap Common\PGSample\bin\PGSample.dll.config
+E:\johny\work\June\Finalized Docs\Payment All\Bitmap Common\PGSample\bin\PGSample.dll
+E:\johny\work\June\Finalized Docs\Payment All\Bitmap Common\PGSample\bin\PGSample.pdb
+E:\johny\work\June\Finalized Docs\Payment All\Bitmap Common\PGSample\bin\Microsoft.Web.Services3.dll
+E:\johny\work\June\Finalized Docs\Payment All\Bitmap Common\PGSample\bin\System.Web.dll
+E:\johny\work\June\Finalized Docs\Payment All\Bitmap Common\PGSample\obj\Debug\PGSample.csprojResolveAssemblyReference.cache
+E:\johny\work\June\Finalized Docs\Payment All\Bitmap Common\PGSample\obj\Debug\PGSample.dll
+E:\johny\work\June\Finalized Docs\Payment All\Bitmap Common\PGSample\obj\Debug\PGSample.pdb
+E:\johny\work\June\Finalized Docs\Payment All\Folder Structure\Bitmap QueryAPI\PGSample\obj\Debug\PGSample.csprojResolveAssemblyReference.cache
+E:\johny\work\June\Finalized Docs\Payment All\Folder Structure\Bitmap QueryAPI\PGSample\obj\Debug\PGSample.dll
+E:\johny\work\June\Finalized Docs\Payment All\Folder Structure\Bitmap QueryAPI\PGSample\obj\Debug\PGSample.pdb
+E:\johny\work\June\Finalized Docs\Payment All\Folder Structure\Bitmap QueryAPI\PGSample\bin\PGSample.dll.config
+E:\johny\work\June\Finalized Docs\Payment All\Folder Structure\Bitmap QueryAPI\PGSample\bin\PGSample.dll
+E:\johny\work\June\Finalized Docs\Payment All\Folder Structure\Bitmap QueryAPI\PGSample\bin\PGSample.pdb
+E:\johny\work\June\Finalized Docs\Payment All\Folder Structure\Bitmap QueryAPI\PGSample\bin\Microsoft.Web.Services3.dll
+E:\johny\work\June\Finalized Docs\Payment All\Folder Structure\Bitmap QueryAPI\PGSample\bin\System.Web.dll
